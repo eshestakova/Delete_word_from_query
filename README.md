@@ -1,0 +1,1 @@
+# Delete_word_from_query
